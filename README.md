@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
- I’m currently working on<br>Academic and real-world projects in AI, ML, and web development<br> I’m looking to collaborate on<br>Hackathons, research projects, and open-source contributions<br> I’m looking for help with<br>Model optimization and real-world ML deployment<br> I’m currently learning<br>Neural Networks, Cloud basics, and Software Project Management<br>Ask me about<br>DSA, ML assignments, and building student projects from scratch<br>Fun fact<br>I debug better at night than during the day
+ I’m currently working on<br>Academic and real-world projects in AI, ML, and web development<br> I’m looking to collaborate on<br>Hackathons, research projects, and open-source contributions<br> I’m looking for help with<br>Model optimization and real-world ML deployment<br> I’m currently learning<br>Neural Networks, Cloud basics and web development<br>Ask me about<br>DSA, ML assignments, and building student projects from scratch<br>Fun fact<br>I debug better at night than during the day
 
 
 ## 🌐 Socials:
